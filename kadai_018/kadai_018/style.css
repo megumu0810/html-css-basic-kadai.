@@ -1,15 +1,11 @@
 #top{
     width: 800px;
-    width: 100%;
-    margin:auto;
     margin: 20% auto;
     text-align:center;
     background-color: #dcc9f4;
 }
 .top-child{
     display: inline-block;
-    margin:20px 0px 20px 0px
-    width: 160px;
     width: 20%;
     background-color:#ffd9df;
 }
